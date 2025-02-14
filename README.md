@@ -35,6 +35,9 @@ Under Users, click on a user and then "Security Credentials"
 Scroll down until you see the Access Key section
 You will not be able to retrieve your secret access key so if you don't have that somewhere, you need to create an access key.
 
+![sports-data-backup-architecture](https://github.com/user-attachments/assets/db1b0dd7-960b-4cd4-afdd-5e970edcba01)
+
+
 # START HERE
 
 ## **Step 1: Clone The Repo**
